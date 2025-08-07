@@ -1,0 +1,24 @@
+table, tr, td{
+    border: 1px solid #d3d3d3;
+}
+
+table {
+    width: 40rem;
+    border-collapse: collapse;
+    margin: 2rem auto;
+}
+table, th, tr, td{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+table th{
+    background-color: #139A43;
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 0.8rem;
+}
+table td{
+    padding-left: 0.6rem;
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 0.8rem;
+}
