@@ -12,9 +12,9 @@ table, th, tr, td{
     padding-bottom: 1rem;
 }
 table th{
-    background-color: #139A43;
+    background-color: #d3d3d3;
     font-family: sans-serif;
-    color: #ffffff;
+    color: #333333;
     font-size: 0.8rem;
 }
 table td{
